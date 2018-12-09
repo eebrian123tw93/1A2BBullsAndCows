@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="selectTheDiditsYouWant">選取位數</string>
+    <string name="rank">排行榜</string>
+    <string name="digits">位</string>
+    <string name="newgame">新遊戲</string>
+    <string name="back">返回</string>
+    <string name="answer">答案</string>
+    <string name="answer_is">答案為</string>
+    <string name="total">共</string>
+    <string name="times">次</string>
+    <string name="input">輸入</string>
+    <string name="time">時間</string>
+    <string name="play">玩法</string>
+    <string name="grade">分數</string>
+    <string name="Gaming_establishment">遊戲建立</string>
+    <string name="Duplicate_values">數值有重複</string>
+    <string name="Value_is_not">數值不為</string>
+    <string name="s">個</string>
+    <string name="Congratulation">恭喜</string>
+    <string name="you_win">你贏了</string>
+    <string name="confirm">確認</string>
+    <string name="Play">遊戲</string>
+    <string name="record">紀錄</string>
+    <string name="Please_enter_the_number">請輸入數字</string>
+    <string name="Press_Newgame_Button">按新遊戲</string>
+    <string name="The_new_game_has_been_established">新的遊戲已建立</string>
+    <string name="play1">\"A\"代表猜測的數字中，數字相同且位置也正確的個數。</string>
+    <string name="play2">\"B\"代表猜測的數字中，數字相同但位置不一樣的個數。</string>
+    <string name="app_name">1A2B猜數字</string>
+    <string name="about">關於</string>
+    <string name="donate">捐贈</string>
+
+</resources>

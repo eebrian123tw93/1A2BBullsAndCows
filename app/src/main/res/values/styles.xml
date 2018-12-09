@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="titleTextColor">@color/colorLABLE</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="Button_style" parent="android:Widget.Holo.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#9ecefd</item>
+        <item name="android:textColor">#ef5d5d</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="Button_style_2" parent="android:Widget.Holo.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#9ecefd</item>
+        <item name="android:textColor">#ef5d5d</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <!--<item name="android:layout_margin">5dp</item>-->
+        <!--<item name="android:layout_weight">1</item>-->
+    </style>
+
+    <style name="Button_style_3" parent="android:Widget.Holo.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#9ecefd</item>
+        <item name="android:textColor">#ef5d5d</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="DialogAnimationGrow">
+        <item name="android:windowEnterAnimation">@animator/grow_in</item>
+        <item name="android:windowExitAnimation">@animator/grow_out</item>
+    </style>
+    <style name="DialogAnimationSideRightLeft">
+        <item name="android:windowEnterAnimation">@animator/side_right_in</item>
+        <item name="android:windowExitAnimation">@animator/side_left_out</item>
+    </style>
+    <style name="DialogAnimationSideUpDown">
+        <item name="android:windowEnterAnimation">@animator/side_up_in</item>
+        <item name="android:windowExitAnimation">@animator/side_down_out</item>
+    </style>
+</resources>
+<!--<item name="colorPrimary">@color/colorPrimary</item>-->
+<!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--<item name="colorAccent">@color/colorAccent</item>-->
+<!--<item name="titleTextColor">@color/colorLABLE</item>-->

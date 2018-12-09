@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">1A2B Bulls and Cows</string>
+    <string-array name="digits">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item>10 </item>
+    </string-array>
+    <!--<string name="app_name">2A1B</string>-->
+    <string name="selectTheDiditsYouWant">Select the digits</string>
+    <string name="Gaming_establishment">Game Start</string>
+    <string name="Play">Play</string>
+    <string name="Please_enter_the_number">Please enter the number</string>
+    <string name="Press_Newgame_Button">Press New game Button</string>
+    <string name="answer">Answer</string>
+    <string name="answer_is">"The answer is "</string>
+
+    <string name="back">Return</string>
+    <string name="confirm">confirm</string>
+    <string name="digits">digits</string>
+    <string name="grade">Point</string>
+    <string name="input">Input</string>
+    <string name="newgame">New Game</string>
+    <string name="play">Play</string>
+    <string name="play1">\"A\" represents the number is the same and the position is correct.</string>
+    <string name="play2">\"B\" represents the number is the same but the number of different positions.</string>
+    <string name="rank">Ranking</string>
+    <string name="record">Record</string>
+    <string name="s">s</string>
+    <string name="time">Time</string>
+    <string name="times">times</string>
+    <string name="total">Total</string>
+    <string name="you_win">You win</string>
+    <string name="Congratulation">Congratulation</string>
+    <string name="Duplicate_values">Duplicate values</string>
+    <string name="Value_is_not">Values are not</string>
+    <string name="The_new_game_has_been_established">Game Start</string>
+    <string name="about">About</string>
+    <string name="donate">Donate</string>
+
+</resources>

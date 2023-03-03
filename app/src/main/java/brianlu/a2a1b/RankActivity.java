@@ -3,7 +3,7 @@ package brianlu.a2a1b;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.Animation;
@@ -104,7 +104,7 @@ public class RankActivity extends AppCompatActivity {
         linearLayout.setLayoutAnimation(lac);
 
     }
-    class TextViewExtends extends android.support.v7.widget.AppCompatTextView{
+    class TextViewExtends extends androidx.appcompat.widget.AppCompatTextView{
         private DialogOnClickListener dialogOnClickListener;
 
         public TextViewExtends(Context context) {

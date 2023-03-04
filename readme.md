@@ -7,11 +7,11 @@
 * [Dcard #自製遊戲 1A2B猜數字](https://www.dcard.tw/f/game/p/227138031?cid=A6DE2638-F8DF-4A69-9ED2-36499ECED0A2)
 
 ## 預覽
-* 首頁\
-<img src="/Users/brian/Documents/android/1A2BBullsAndCows/preview/home.png" width="300"/>
-* 1A2B\
-<img src="./preview/game.png" width="300" align="center" />
-* 結果\
-<img src="./preview/result.png" width="300" align="center" />
-* 排行\
-<img src="./preview/rank.png" width="300" align="center" />
+* 首頁 \
+<img src="./preview/home.png" width="300"/>
+* 1A2B \
+<img src="./preview/game.png" width="300"/>
+* 結果 \
+<img src="./preview/result.png" width="300"/>
+* 排行 \
+<img src="./preview/rank.png" width="300"/>

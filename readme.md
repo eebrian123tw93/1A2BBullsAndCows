@@ -1,4 +1,7 @@
 ## 自製遊戲 1A2B猜數字 (1A2B Bulls And Cows)
+
+<img src="./screenshots/screenshots.png" width="100%"/>
+
 >哈囉！我是一個很菜的開發人員，原本學java的，就想說自己來學一點安卓，這個猜數字遊戲原本是練習用的，但是看到它沒有完成，就把它做完整點．很多的幫助都是從網路上學來的，還有很多不足的地方，還請大家多多見諒．如果有什麼建議或感想可以點擊上下的圖片，留個言唄！
 ### 特色
 * 本地排行
@@ -8,10 +11,10 @@
 
 ## 預覽
 * 首頁
-<img src="./preview/home.png" width="300"/>
+<img src="./screenshots/Screenshot_1504149126.png" width="300"/>
 * 1A2B
-<img src="./preview/game.png" width="300"/>
+<img src="./screenshots/Screenshot_1504149133.png" width="300"/>
 * 結果
-<img src="./preview/result.png" width="300"/>
+<img src="./screenshots/result.png" width="300"/>
 * 排行
-<img src="./preview/rank.png" width="300"/>
+<img src="./screenshots/Screenshot_1504149246.png" width="300"/>

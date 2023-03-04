@@ -10,11 +10,7 @@
 * [Dcard #自製遊戲 1A2B猜數字](https://www.dcard.tw/f/game/p/227138031?cid=A6DE2638-F8DF-4A69-9ED2-36499ECED0A2)
 
 ## 預覽
-* 首頁
-<img src="./screenshots/Screenshot_1504149126.png" width="300"/>
-* 1A2B
-<img src="./screenshots/Screenshot_1504149133.png" width="300"/>
-* 結果
-<img src="./screenshots/result.png" width="300"/>
-* 排行
-<img src="./screenshots/Screenshot_1504149246.png" width="300"/>
+* 首頁 <br> <img src="./screenshots/Screenshot_1504149126.png" width="300"/>
+* 1A2B <br> <img src="./screenshots/Screenshot_1504149133.png" width="300"/>
+* 結果 <br> <img src="./screenshots/result.png" width="300"/>
+* 排行 <br> <img src="./screenshots/Screenshot_1504149246.png" width="300"/>

@@ -14,3 +14,4 @@
 * 1A2B <br> <img src="./screenshots/Screenshot_1504149133.png" width="300"/>
 * 結果 <br> <img src="./screenshots/result.png" width="300"/>
 * 排行 <br> <img src="./screenshots/Screenshot_1504149246.png" width="300"/>
+* 紀錄查詢 <br> <img src="./screenshots/record_history.png" width="300"/>

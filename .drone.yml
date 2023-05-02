@@ -1,0 +1,17 @@
+kind: pipeline
+name: test
+
+steps:
+- name: practice
+  image: alpine
+  environment:
+    USERNAME:
+      from_secret: username
+  commands:
+    - echo "You can call the secrets like this examples below."
+    - echo $USERNAME
+
+---
+kind: secret
+name: username
+data: hl3v+FODjduX0UpXBHgYzPzVTppQblg51CVgCbgDk4U=
